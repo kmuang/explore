@@ -121,6 +121,7 @@ const countries = [
   },
   { 
     name: 'Greece', 
+    code: 'GR',
     flag: '🇬🇷',
     images: [
       'https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800',
